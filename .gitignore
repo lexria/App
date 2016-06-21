@@ -50,7 +50,6 @@ crashlytics-build.properties
 
 .DS_Store
 *.db
-public/photoUploads
 
 .gradle
 build
